@@ -38,10 +38,8 @@
 
 ## _WEBSITE DEMO_
 
-![Screenshot (771)](https://user-images.githubusercontent.com/61280281/99399713-0844b900-290c-11eb-8d7c-1199319b4a9e.png)
+![Screenshot from 2024-10-04 16-23-56](https://github.com/user-attachments/assets/0010d911-bb20-4b55-848d-a31b0b56c672)
 
-![Screenshot (772)](https://user-images.githubusercontent.com/61280281/99399731-0da20380-290c-11eb-8a59-e0a2e5f9b19f.png)
+![Screenshot from 2024-10-04 16-24-32](https://github.com/user-attachments/assets/99309a2c-9b24-4c93-8b29-ac111241e921)
 
-![Screenshot (773)](https://user-images.githubusercontent.com/61280281/99399728-0d096d00-290c-11eb-9ee5-59cc8358676c.png)
-
-![Screenshot (774)](https://user-images.githubusercontent.com/61280281/99399723-0b3fa980-290c-11eb-8728-03d974be548d.png)
+![Screenshot from 2024-10-04 16-24-40](https://github.com/user-attachments/assets/2280f227-1791-4cbf-a314-e8a1820bfc0a)
